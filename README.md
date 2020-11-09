@@ -2,7 +2,7 @@
 
 This repo serves as a *bare* blueprint for ReactJS projects based on Typescript.
 
-For my likings `npx create-react- app .` creates way too much unnecessary files which take ages to delete.  
+For my likings `npx create-react- app . --template typescript` creates way too much unnecessary files which take ages to delete.  
 This repo can be cloned with the bare flag and used for easy project setup.
 
 ## How to bare clone this repo without forking it
